@@ -1,2 +1,3 @@
-# tonometer-controller
-Service for tonometer control
+# Сервис tonometer-controller
+
+Сервис для учета результатов проверки тонометров
